@@ -1,0 +1,20 @@
+.container {
+	width: 960px;
+	margin: 0 auto;
+	}
+	
+.banner
+{
+	
+	background: url(../images/Banner.png);
+	max-width: 960px;
+	height: auto;
+}
+	
+.navigation {
+	width:940px;
+	text-align:right;
+	background-color:#333333;
+	margin-top: 0px;
+	padding-bottom: 1px;
+	}
