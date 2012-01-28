@@ -13,6 +13,7 @@ color: white; */
 	
 .navi a{
 	color: gray;
+	
 }
 
 .navi li{
@@ -31,7 +32,7 @@ color: white; */
 	height: 300px;
 }
 	
-.tabs li a {
+/*.tabs li a {
     border: 0 solid transparent;
     border-radius: 4px 4px 0 0;
     line-height: 60px;
@@ -39,11 +40,7 @@ color: white; */
     padding: 0 109px;
 	font-size: 28px;
 }
-
-.page-header{
-/*background-color: gray; */
-
-}
+*/
 
 .front-page-image img{
 	width: 280px;
@@ -66,8 +63,12 @@ color: white; */
 }
 
 .footer{
-	background-color: ##2B3856;
-	margin-top: 10px;
-	text-align:center;
+	margin-top: 15px;
+	text-align: center;
+}
+
+.description p{
+	font-size: 16px;
+	line-height: 22px;
 }
 
