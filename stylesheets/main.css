@@ -63,8 +63,12 @@ color: white; */
 }
 
 .footer{
-	margin-top: 15px;
+	
 	text-align: center;
+}
+
+.personal_info{
+font-size: 16px;	
 }
 
 .description p{
