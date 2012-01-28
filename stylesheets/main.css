@@ -13,17 +13,26 @@ color: white; */
 	
 .navi a{
 	color: gray;
-	
+	}
+
+.navi a:hover{
+	color: white;
+	text-decoration: none;
+	font-weight:bold;
 }
 
 .navi li{
-	font-size:40px;
+	font-size:36px;
 	line-height: 105px;
 	list-style: none;
 	text-align: right;
 	margin-right: 10px;
 }
 
+.span-one-third p
+{
+	font-size: 13.5px;
+}
 
 .banner
 {
@@ -63,8 +72,11 @@ color: white; */
 }
 
 .footer{
-	
 	text-align: center;
+}
+
+.footer a {
+	color: #0000A0;
 }
 
 .personal_info{
